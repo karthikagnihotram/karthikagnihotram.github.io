@@ -1,2 +1,2 @@
-# karthikagnihotram2.github.io
+# karthikagnihotram.github.io
 Static website for vildon uk ltd
